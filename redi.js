@@ -1,4 +1,4 @@
-var url = "./login"; // url tujuan
+var url = "./"; // url tujuan
 var count = 3; // dalam detik
 function countDown() {
     if (count > 0) {
