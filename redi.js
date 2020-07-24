@@ -1,5 +1,5 @@
 var url = "./"; // url tujuan
-var count = 3; // dalam detik
+var count = 86400; // dalam detik
 function countDown() {
     if (count > 0) {
         count--;
